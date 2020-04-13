@@ -37,7 +37,7 @@ For how to use these vmess addresses / V2Ray configurations please search on Bai
 
 #### ~~lantern（蓝灯）破解~~（已不可用）
 
-教程：[点击查看](lantern/lantern.md)，
+教程：[点击查看](lantern/readme.md)，
 
 >**感谢JuncoJet**
 >
