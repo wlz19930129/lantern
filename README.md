@@ -1,9 +1,9 @@
 # vmess addresses / V2Ray configurations
-## Last Update: 04-13-2020 (Reachable) 
+## Last Update: `04-13-2020` (Reachable) 
 ## Please view [vmess.txt](vmess.txt) to get the newest addresses
 
 # vmess 节点地址 / V2Ray 配置文件
-## 最后更新：2020-04-13（测试可用）
+## 最后更新：`2020-04-13`（测试可用）
 ## 请查看 [vmess.txt](vmess.txt) 以获取最新地址
 
 ---
@@ -11,7 +11,7 @@
 ## ATTENTION: 
 **1. Theese addresses AND/OR configurations are ONLY for study and research use. NOT for commercial AND/OR illegal use. If you break the laws in your country or region. The repository WON'T assume any responsibility.**
 
-**2. These V2ray servers AREN'T set up by contributors, and they ARE extracted from some applications. Any personal data WON'T be collected from them.**
+**2. These V2ray servers ***AREN'T*** set up by contributors, and they ARE extracted from some applications. Any personal data WON'T be collected from them.**
 
 ## 注意：
 **1. 这些地址和/或配置文件仅供学习和研究用途，不得用于商业和非法用途。如果您触犯了您所在国家或地区的法律，本仓库不承担任何责任。**
@@ -35,7 +35,7 @@ For how to use these vmess addresses / V2Ray configurations please search on Bai
 
 ---
 
-#### lantern（蓝灯）破解（已不可用）
+#### ~~lantern（蓝灯）破解（已不可用）~~
 
 教程：[点击查看](lantern/lantern.md)，
 
