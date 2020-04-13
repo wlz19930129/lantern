@@ -1,6 +1,6 @@
 第一步，下载LordPE和蓝灯4.4.0安装程序，直接解压蓝灯的安装程序：
 
-![LordPE下载](https://github.com/ntkernel/file/blob/master/LoadPe.7z)
+[LordPE下载](https://github.com/ntkernel/file/blob/master/LoadPe.7z)
 
 ![查看图片](https://raw.githubusercontent.com/ntkernel/lantern/master/lantern/image/2.PNG)
 
