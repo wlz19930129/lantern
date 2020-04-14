@@ -19,7 +19,7 @@
 
 **4. Thanks to everyone who contributed to this responsitory(provide address,beautify the readme...).**
 
-**5. Welcome to provide us with servers/addresses([1696568961@qq.com](mailto:1696568961@qq.com)).**
+**5. Welcome to provide us with servers/addresses([lltapi@outlook.com](mailto:lltapi@outlook.com)).**
 
 ## 注意：
 **1. 这些地址和/或配置文件仅供学习和研究用途，不得用于商业和非法用途。如果您触犯了您所在国家或地区的法律，本仓库不承担任何责任。**
@@ -30,7 +30,7 @@
 
 **4.感谢所有为这个项目做出贡献的人（提供路线、修改页面、整理项目、报告线路状况......）。**
 
-**5.欢迎给我们提供线路（[1696568961@qq.com](mailto:1696568961@qq.com)）。**
+**5.欢迎给我们提供线路（[lltapi@outlook.com](mailto:lltapi@outlook.com)）。**
 
 ---
 
