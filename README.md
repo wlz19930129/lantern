@@ -5,7 +5,7 @@
 ### Please view [vmess.txt](vmess.txt) to get the newest addresses
 ### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
 ### Or add [vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt) to your subscription
-
+### 添加订阅教程（usage）：[ISSUES 54](https://github.com/ntkernel/lantern/issues/54)
 
 
 ---
