@@ -1,12 +1,13 @@
 # vmess addresses / V2Ray configurations（vmess 节点地址 / V2Ray 配置文件）
-## 最后更新：`2020-06-21`（测试可用）
-## Last Update: `06-21-2020` (Reachable) 
-### 请查看 [vmess.txt](vmess.txt) 以获取最新地址
-### Please view [vmess.txt](vmess.txt) to get the newest addresses
-### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
-### Or add [vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt) to your subscription
-### 添加订阅教程（usage）：[ISSUES 54](https://github.com/ntkernel/lantern/issues/54)
-
+### 最后更新：`2020-06-21`（测试可用）
+### Last Update: `06-21-2020` (Reachable) 
+#### 请查看 [vmess.txt](vmess.txt) 以获取最新地址
+#### Please view [vmess.txt](vmess.txt) to get the newest addresses
+#### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
+#### Or add [vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt) to your subscription
+#### 网络条件不好的可以用 jsdelivr cdn：https://cdn.jsdelivr.net/gh/ntkernel/lantern@master/vmess_base64.txt 注意此链接时效性不太好
+#### 添加订阅教程（usage）：[ISSUES 54](https://github.com/ntkernel/lantern/issues/54)
+#### 感谢txyyh提供的教程
 
 ---
 
