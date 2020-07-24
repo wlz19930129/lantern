@@ -1,6 +1,6 @@
 # vmess addresses / V2Ray configurations（vmess 节点地址 / V2Ray 配置文件）
-### 最后更新：`2020-06-21`（测试可用）
-### Last Update: `06-21-2020` (Reachable) 
+### 最后更新：`2020-07-24`（测试可用）
+### Last Update: `07-24-2020` (Reachable) 
 #### 请查看 [vmess.txt](vmess.txt) 以获取最新地址
 #### Please view [vmess.txt](vmess.txt) to get the newest addresses
 #### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
