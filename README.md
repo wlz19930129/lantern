@@ -5,7 +5,7 @@
 #### Please view [vmess.txt](vmess.txt) to get the newest addresses
 #### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
 #### Or add [vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt) to your subscription
-#### 网络条件不好的可以用 jsdelivr cdn：https://cdn.jsdelivr.net/gh/ntkernel/lantern@master/vmess_base64.txt 注意此链接时效性不太好
+#### Github Pages 链接: https://ntkernel.github.io/lantern/vmess_base64.txt
 #### 添加订阅教程（usage）：[ISSUES 54](https://github.com/ntkernel/lantern/issues/54)
 #### 感谢txyyh提供的教程
 #### 欢迎大家Watch Release only,我更新release时会自动发送到你的邮箱
