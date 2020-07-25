@@ -6,6 +6,7 @@
 #### 或者添加[vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt)到订阅
 #### Or add [vmess_base64.txt](https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt) to your subscription
 #### Github Pages 链接: https://ntkernel.github.io/lantern/vmess_base64.txt
+#### Cloudflare Workers 链接: https://vmess.llt.workers.dev/
 #### 添加订阅教程（usage）：[ISSUES 54](https://github.com/ntkernel/lantern/issues/54)
 #### 感谢txyyh提供的教程
 #### 欢迎大家Watch Release only,我更新release时会自动发送到你的邮箱
